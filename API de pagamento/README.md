@@ -1,4 +1,4 @@
-# Desafio_Payment_API
+# API de Pagamento
 
 Registrar venda: Recebe os dados do vendedor + itens vendidos. Registra venda com status "Aguardando pagamento";
 Buscar venda: Busca pelo Id da venda;
